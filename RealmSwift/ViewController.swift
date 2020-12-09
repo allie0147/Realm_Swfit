@@ -2,18 +2,15 @@
 //  ViewController.swift
 //  RealmSwift
 //
-//  Created by ishift on 2020/12/09.
+//  Created by Allie Kim on 2020/12/09.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class MyTableViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
 
